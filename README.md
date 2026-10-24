@@ -1,7 +1,13 @@
-# João Batista | IT Infrastructure & Cybersecurity
+<h1 align="center">João Batista</h1>
 
 <p align="center">
-  <img src="" width="100%" alt="Cybersecurity workspace — Kali Linux"/>
+  <strong>IT Infrastructure | Networking | Cybersecurity | Python</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/john-root-opsec/john-root-opsec/main/kali-banner.png"
+       width="100%"
+       alt="Kali Linux — Cybersecurity"/>
 </p>
 
 <p align="center">
