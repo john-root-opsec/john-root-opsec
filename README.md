@@ -82,7 +82,7 @@ A practical corporate network design project focused on network segmentation, co
 
 **Topics:** VLANs, routing, ACLs, DHCP, DNS, network services, and infrastructure troubleshooting.
 
-🔗 [Explore my GitHub repositories](https://github.com/john-root-opsec)
+🔗 [Explore my GitHub repositories](https://github.com/john-root-opsec/enterprise-network-defense-in-depth)
 
 ### 🐍 Gmail Automation with Python
 
@@ -90,7 +90,7 @@ A Python automation project using the Gmail API and OAuth 2.0 to manage email me
 
 **Topics:** Python, Google APIs, authentication, REST APIs, pagination, and batch processing.
 
-🔗 [Explore my GitHub repositories](https://github.com/john-root-opsec)
+🔗 [Explore my GitHub repositories](https://github.com/john-root-opsec/gmail-auto-cleaner)
 
 ### 🔐 WebSec Lab — From Vulnerability to Detection
 
@@ -105,7 +105,7 @@ An ongoing project designed to connect web security testing, event analysis, and
 
 **Status:** In development.
 
-🔗 [Follow the project on GitHub](https://github.com/john-root-opsec)
+🔗 [Follow the project on GitHub](https://github.com/john-root-opsec/websec-lab)
 
 ---
 
