@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="52" viewBox="0 0 880 52" role="img" aria-label="Learning systems, securing networks, building useful tools">
-<rect x="1" y="1" width="878" height="50" rx="6" fill="#08070a" stroke="#30282e"/>
-<path d="M18 26H34" stroke="#b51d32" stroke-width="2"/>
-<text x="48" y="32" fill="#d8d2d5" font-family="monospace" font-size="16" letter-spacing=".4">&gt;_ learning systems, securing networks, building useful tools</text>
-<circle cx="850" cy="26" r="3" fill="#b51d32"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54"><rect x="1" y="1" width="898" height="52" rx="6" fill="#09080b" stroke="#382b33"/><path d="M18 27H34" stroke="#d11d38" stroke-width="2"/><text x="47" y="33" fill="#ded5da" font-family="monospace" font-size="14" letter-spacing=".5">&gt;_ understand the system. map the exposure. secure what matters.</text><circle cx="875" cy="27" r="3" fill="#d11d38"/></svg>
