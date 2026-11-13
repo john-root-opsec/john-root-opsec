@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="05 // APRENDIZADO">
+<rect x="1" y="1" width="1198" height="62" rx="5" fill="#07080b" stroke="#38343a"/>
+<path d="M1 8v48" stroke="#a51b30" stroke-width="3"/>
+<text x="26" y="39" fill="#bd293d" font-family="monospace" font-size="16" letter-spacing="1.5">05</text>
+<text x="58" y="39" fill="#e7e0e2" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="bold" letter-spacing="2">// APRENDIZADO</text>
+<path d="M300 32H1115" stroke="#383039" stroke-width="1"/>
+<path d="M300 32l7 -4v8z" fill="#8b1526"/>
+<text x="1174" y="36" text-anchor="end" fill="#716972" font-family="monospace" font-size="9" letter-spacing="1.6">LEARNING.LOG</text>
+</svg>
