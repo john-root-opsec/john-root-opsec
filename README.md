@@ -7,7 +7,11 @@
 <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-111015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-8B1526?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
-<img src="https://raw.githubusercontent.com/john-root-opsec/john-root-opsec/main/kali-banner.png" width="360" alt="Kali Linux artwork — my cybersecurity lab identity" />
+<div align="center">
+  <img src="./kali-banner.png"
+       width="100%"
+       alt="Kali Linux — Cybersecurity Lab" />
+</div>
 
 </div>
 
