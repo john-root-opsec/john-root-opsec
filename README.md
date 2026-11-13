@@ -1,88 +1,61 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="João Batista — IT Infrastructure, Networking and Cybersecurity" />
-  <br />
-  <sub><strong>IT INFRASTRUCTURE&nbsp; • &nbsp;NETWORKING&nbsp; • &nbsp;CYBERSECURITY&nbsp; • &nbsp;PYTHON</strong></sub>
+
+<img src="assets/header.png" width="100%" alt="Hello, World — João Batista, IT Infrastructure, Networking and Cybersecurity" />
+
+<img src="assets/intro.svg" width="100%" alt="Learning systems, securing networks, building useful tools" />
+
+<a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/PORTFOLIO-8b1526?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub portfolio" /></a>
+<a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0a0a0c?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
+<br /><br />
+<img src="https://raw.githubusercontent.com/john-root-opsec/john-root-opsec/main/kali-banner.png" width="420" alt="Kali Linux artwork" />
+
+</div>
+
+## <img src="assets/titles/about.svg" width="100%" alt="01 // About" />
+
+<p align="center"><img src="assets/about-card.png" width="100%" alt="IT professional focused on infrastructure, networks, Linux and cybersecurity. Class: IT Infrastructure and Cybersecurity. Focus: Networking, Linux and system administration. Lab: Kali Linux, Metasploitable2 and Cisco Packet Tracer. Study: Red Team, Blue Team and Python automation. Approach: Learn, test and document in authorized environments." /></p>
+
+## <img src="assets/titles/skills.svg" width="100%" alt="02 // Arsenal" />
+
+<p align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,sqlite,vite,git,github,kali,linux,windows&amp;theme=dark&amp;perline=13" alt="Python, JavaScript, TypeScript, React, HTML, CSS, SQLite, Vite, Git, GitHub, Kali Linux, Linux and Windows" /></p>
+
+<p align="center"><img src="assets/epi-skills.svg" width="100%" alt="Every tool, a new layer." /></p>
+
+◆ **CYBERSECURITY TOOLKIT**<br />
+<img src="https://img.shields.io/badge/Burp_Suite-8b1526?style=flat-square" alt="Burp Suite" /> <img src="https://img.shields.io/badge/sqlmap-252127?style=flat-square" alt="sqlmap" /> <img src="https://img.shields.io/badge/Metasploit-8b1526?style=flat-square" alt="Metasploit Framework" /> <img src="https://img.shields.io/badge/Wireshark-252127?style=flat-square" alt="Wireshark" /> <img src="https://img.shields.io/badge/Nmap-8b1526?style=flat-square" alt="Nmap" />
+
+◆ **NETWORKING &amp; SYSTEMS**<br />
+<kbd>Cisco Packet Tracer</kbd> <kbd>VirtualBox</kbd> <kbd>VLANs</kbd> <kbd>TCP/IP</kbd> <kbd>DHCP</kbd> <kbd>DNS</kbd> <kbd>Windows Support</kbd> <kbd>Linux CLI</kbd>
+
+◆ **DEVELOPMENT &amp; AUTOMATION**<br />
+<kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>SQLite</kbd> <kbd>REST APIs</kbd> <kbd>OAuth 2.0</kbd>
+
+## <img src="assets/titles/missions.svg" width="100%" alt="03 // Missions" />
+
+<p align="center"><img src="assets/epi-missions.svg" width="100%" alt="Selected projects and lab notes" /></p>
+
+| PROJECT | BRIEFING |
+| :--- | :--- |
+| **[Enterprise Network Defense](https://github.com/john-root-opsec/enterprise-network-defense-in-depth)** | Corporate network design · VLANs · ACLs · DHCP · DNS · Routing |
+| **[Gmail Automation](https://github.com/john-root-opsec/gmail-auto-cleaner)** | Python · Gmail API · OAuth 2.0 · REST · Pagination · Batch processing |
+| **[WebSec Lab](https://github.com/john-root-opsec/websec-lab)** | Web security lab · HTTP analysis · Python detection concepts · *In development* |
+
+## <img src="assets/titles/learning.svg" width="100%" alt="04 // Learning" />
+
+<p align="center"><img src="assets/epi-learning.svg" width="100%" alt="Learn deliberately. Build consistently." /></p>
+
+- **Systems Analysis and Development** — degree completed.
+- **AI-900 — Microsoft Azure AI Fundamentals** — completed.
+- **Current focus:** Linux administration, networking, authorized security labs, Python automation and front-end development.
+
+## <img src="assets/titles/contact.svg" width="100%" alt="05 // Contact" />
+
+<div align="center">
+  <img src="assets/epi-contact.svg" width="100%" alt="The channel is open" />
+  <p><em>Infrastructure, networking, cybersecurity or practical technology projects.</em></p>
+  <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-john--root--opsec-0a0a0c?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub john-root-opsec" /></a>
+  <a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-8b1526?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
   <br /><br />
-  <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-17151A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-8B1526?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/john-root-opsec/john-root-opsec/main/kali-banner.png" width="460" alt="Kali Linux artwork" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./assets/sections/01-about.svg" width="100%" alt="01 // ABOUT" />
-</div>
-
-I'm an IT professional with a degree in **Systems Analysis and Development**, focused on infrastructure, computer networks and information security. My background includes IT support, Windows environments and troubleshooting. I develop my skills through practical labs, Python automation, and Red Team and Blue Team studies.
-
-<sub>**FOCUS** &nbsp; Infrastructure · Networking · Linux · Cybersecurity · Automation</sub>
-
-<br />
-
-<div align="center">
-  <img src="./assets/sections/02-arsenal.svg" width="100%" alt="02 // ARSENAL" />
-</div>
-
-**DEVELOPMENT**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,sqlite,vite,git,github&theme=dark&perline=10" alt="Python, JavaScript, TypeScript, React, HTML, CSS, SQLite, Vite, Git and GitHub" />
-</div>
-
-**CYBERSECURITY TOOLKIT**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-8B1526?style=flat-square" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/sqlmap-29252B?style=flat-square" alt="sqlmap" />
-  <img src="https://img.shields.io/badge/Metasploit-8B1526?style=flat-square" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-29252B?style=flat-square" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-8B1526?style=flat-square" alt="Nmap" />
-</p>
-
-**SYSTEMS & NETWORKING**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" alt="Kali Linux, Linux and Windows" />
-  <br />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-29252B?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/VirtualBox-8B1526?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-</div>
-
-<div align="center">
-  <img src="./assets/arsenal-quote.svg" width="100%" alt="Every tool, a new layer of knowledge." />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./assets/sections/03-projects.svg" width="100%" alt="03 // SELECTED PROJECTS" />
-</div>
-
-**[Enterprise Network Defense](https://github.com/john-root-opsec/enterprise-network-defense-in-depth)**  
-Corporate network design · VLANs · ACLs · DHCP · DNS
-
-**[Gmail Automation](https://github.com/john-root-opsec/gmail-auto-cleaner)**  
-Python · Gmail API · OAuth 2.0 · REST · Batch Processing
-
-**[WebSec Lab](https://github.com/john-root-opsec/websec-lab)**  
-Web security lab · HTTP analysis · Python detection concepts · *In development*
-
-<br />
-
-<div align="center">
-  <img src="./assets/sections/04-focus.svg" width="100%" alt="04 // FOCUS & CONTACT" />
-</div>
-
-**CURRENT FOCUS** &nbsp; Linux · Network Administration · Ethical Hacking · Defensive Security · Python Automation · Front-end Development
-
-I'm interested in junior opportunities in **IT Infrastructure, Networking, IT Support and Cybersecurity**. All security testing is performed in authorized labs and environments.
-
-<div align="center">
-  <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-17151A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <br /><br />
-  <strong>LEARN CONTINUOUSLY&nbsp; • &nbsp;BUILD PRACTICALLY&nbsp; • &nbsp;SECURE RESPONSIBLY</strong>
-  <br />
-  <img src="./assets/footer-rule.svg" width="100%" alt="End of profile" />
+  <img src="assets/divider.svg" width="100%" alt="Decorative divider" />
+  <img src="assets/footer.svg" width="100%" alt="Learn continuously. Build practically. Secure responsibly." />
 </div>

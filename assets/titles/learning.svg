@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="58" viewBox="0 0 880 58" role="img" aria-label="04 // LEARNING">
+<rect x="1" y="1" width="878" height="56" rx="6" fill="#08070a" stroke="#342b31"/>
+<path d="M2 8V50" stroke="#b51d32" stroke-width="3"/>
+<text x="22" y="36" fill="#c51f35" font-family="monospace" font-size="14" letter-spacing="1.8">04</text>
+<text x="58" y="37" fill="#e7e1e4" font-family="Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="2">// LEARNING</text>
+<path d="M285 29H805" stroke="#41353c" stroke-width="1"/>
+<path d="M285 29l7 -4v8z" fill="#a51b30"/>
+<text x="855" y="33" text-anchor="end" fill="#746972" font-family="monospace" font-size="8" letter-spacing="1.5">KNOWLEDGE.BASE</text>
+</svg>

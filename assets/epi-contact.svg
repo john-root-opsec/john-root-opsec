@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-label="The channel is open">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="2.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="878" height="62" rx="7" fill="#08070a" stroke="#332a30"/>
+<path d="M28 32H300M580 32H852" stroke="#3a3036" stroke-width="1"/>
+<path d="M300 32l6 -5v10zM580 32l-6 -5v10z" fill="#b51d32"/>
+<text x="440" y="41" text-anchor="middle" fill="#e7e0e3" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="bold" filter="url(#glow)">The channel is open</text>
+</svg>
