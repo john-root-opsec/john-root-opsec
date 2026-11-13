@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Every tool is a new layer of knowledge">
-<rect x="1" y="1" width="1198" height="90" rx="7" fill="#08090c" stroke="#38343a"/>
-<path d="M34 46H350M850 46h316" stroke="#393039" stroke-width="1"/>
-<path d="M350 46l7 -5v10zM850 46l-7 -5v10z" fill="#a51b30"/>
-<path d="M594 36l10 10-10 10-10-10z" fill="#a51b30"/>
-<text x="600" y="56" text-anchor="middle" fill="#e9e1e2" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold">Every tool, a new layer of knowledge.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Every tool, a new layer of knowledge">
+  <rect x="1" y="1" width="1198" height="74" rx="6" fill="#08080b" stroke="#393239"/>
+  <path d="M30 38H390M810 38H1170" stroke="#3b3339"/>
+  <path d="M390 38l8 -5v10zM810 38l-8 -5v10z" fill="#a51b30"/>
+  <text x="600" y="47" text-anchor="middle" fill="#e7e0e2" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="bold">Every tool, a new layer of knowledge.</text>
 </svg>

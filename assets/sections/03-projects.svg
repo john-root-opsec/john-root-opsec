@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="03 // SELECTED PROJECTS">
+  <rect x="1" y="1" width="1198" height="56" rx="5" fill="#07070a" stroke="#393239"/>
+  <path d="M2 7V51" stroke="#a51b30" stroke-width="3"/>
+  <text x="24" y="36" fill="#c51f35" font-family="monospace" font-size="15" letter-spacing="1.5">03</text>
+  <text x="58" y="36" fill="#e7e0e2" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-weight="bold" letter-spacing="1.6">// SELECTED PROJECTS</text>
+  <path d="M390 29H1110" stroke="#40353b" stroke-width="1"/>
+  <path d="M390 29l7 -4v8z" fill="#8b1526"/>
+  <text x="1170" y="33" text-anchor="end" fill="#776d73" font-family="monospace" font-size="9" letter-spacing="1.5">LAB.REPORT</text>
+</svg>

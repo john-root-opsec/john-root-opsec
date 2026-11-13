@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="End of profile">
-<path d="M1 26H1199" stroke="#3b3339" stroke-width="1"/>
-<path d="M590 26l10-7 10 7-10 7z" fill="#a51b30"/>
-<path d="M20 17h24M20 17v18M1180 17h-24M1180 17v18" stroke="#6e6269" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="End of profile divider">
+  <path d="M0 12H1200" stroke="#49333a" stroke-width="1"/>
+  <path d="M0 12H300M900 12H1200" stroke="#8b1526" stroke-width="2"/>
+  <circle cx="600" cy="12" r="4" fill="#b51d32"/>
 </svg>

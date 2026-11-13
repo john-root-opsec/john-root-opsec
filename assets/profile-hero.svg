@@ -1,37 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">João Batista — Infrastructure, Networking and Cybersecurity</title>
-<desc id="desc">Dark editorial cybersecurity profile banner with technical grid, red skyline, eclipse and profile information.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07080b"/><stop offset=".58" stop-color="#0c0b10"/><stop offset="1" stop-color="#030405"/></linearGradient>
-  <radialGradient id="halo"><stop offset="0" stop-color="#711528" stop-opacity=".34"/><stop offset="1" stop-color="#711528" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#77717a" stroke-opacity=".10" stroke-width=".7"/></pattern>
-  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#741525"/><stop offset=".5" stop-color="#c51f35"/><stop offset="1" stop-color="#741525"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
-</defs>
-<rect width="1200" height="320" rx="7" fill="url(#bg)"/>
-<rect width="1200" height="320" rx="7" fill="url(#grid)"/>
-<ellipse cx="970" cy="140" rx="270" ry="190" fill="url(#halo)" filter="url(#soft)"/>
-<rect x="1" y="1" width="1198" height="318" rx="6" fill="none" stroke="#55515a" stroke-opacity=".85"/>
-<!-- technical frame -->
-<path d="M28 28h28M28 28v24M1172 28h-28M1172 28v24M28 292h28M28 292v-24M1172 292h-28M1172 292v-24" fill="none" stroke="#9a9299" stroke-width="1.2"/>
-<text x="48" y="48" fill="#bcb5bb" font-family="monospace" font-size="12" letter-spacing="2.2">JOHN-ROOT-OPSEC  /  PROFILE.README</text>
-<text x="1150" y="48" text-anchor="end" fill="#bcb5bb" font-family="monospace" font-size="10" letter-spacing="2">SYSTEM ONLINE</text>
-<circle cx="1163" cy="44" r="3.5" fill="#a51b30"/>
-<path d="M28 67H1172" stroke="url(#line)" stroke-width="1.5"/>
-<!-- skyline silhouette -->
-<g fill="#351018" opacity=".68">
- <path d="M0 272h32v-18h15v18h10v-30h16v30h18v-46h19v46h16v-25h20v25h15v-35h24v35h18v-20h16v20h20v-51h21v51h18v-31h18v31h20v-42h18v42h16v-26h20v26h18v-50h22v50h20v-22h20v22h18v-34h18v34h18v-45h20v45h20v-23h18v23h18v-39h22v39h18v-27h20v27h18v-50h22v50h18v-31h18v31h18v-40h22v40h20v-25h18v25h16v-45h21v45h19v-31h20v31h18v-24h20v24h18v-43h22v43h18v-26h20v26h18v-35h21v35h18v-47h22v47h20v-31h18v31h20v-20h18v20h20v-38h22v38h18v-27h19v27h14v-20h16v20z"/>
-</g>
-<path d="M28 272H1172" stroke="#6e1827" stroke-opacity=".8" stroke-width="1"/>
-<!-- eclipse / technical reticle -->
-<circle cx="1000" cy="169" r="87" fill="#020204" stroke="#d7d0d2" stroke-width="1.4"/>
-<circle cx="1000" cy="169" r="99" fill="none" stroke="#8b1526" stroke-width=".9" stroke-dasharray="2 7" opacity=".9"/>
-<path d="M1000 65V273M896 169H1104M926 95l148 148M1074 95L926 243" stroke="#a12a39" stroke-opacity=".48" stroke-width=".8"/>
-<circle cx="1000" cy="169" r="3" fill="#c51f35"/>
-<!-- text -->
-<text x="48" y="174" fill="#eee8e8" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" letter-spacing="-2">João Batista</text>
-<text x="52" y="206" fill="#c8bec3" font-family="monospace" font-size="13" letter-spacing="2.4">IT INFRASTRUCTURE  /  NETWORKING  /  CYBERSECURITY</text>
-<text x="52" y="237" fill="#8e858c" font-family="monospace" font-size="10" letter-spacing="2.5">LEARN  •  TEST  •  AUTOMATE  •  DEFEND</text>
-<path d="M52 251H690" stroke="#3b2930" stroke-width="1"/>
-<text x="52" y="289" fill="#8e7e85" font-family="monospace" font-size="8" letter-spacing="1.8">LINUX ENVIRONMENTS  ·  NETWORK SYSTEMS  ·  SECURITY LABS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">João Batista — Infrastructure, Networking and Cybersecurity</title>
+  <desc id="desc">A restrained black and dark red editorial banner with a subtle grid, skyline and eclipse motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050507"/><stop offset=".55" stop-color="#100b10"/><stop offset="1" stop-color="#050507"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#8b1526" stop-opacity=".35"/><stop offset="1" stop-color="#8b1526" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#b8aeb2" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <linearGradient id="redline"><stop offset="0" stop-color="#46101b"/><stop offset=".5" stop-color="#c51f35"/><stop offset="1" stop-color="#46101b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="6" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="248" rx="5" fill="url(#grid)" stroke="#575057"/>
+  <ellipse cx="980" cy="118" rx="230" ry="170" fill="url(#glow)"/>
+  <path d="M24 58H1176" stroke="url(#redline)" stroke-width="2"/>
+  <path d="M24 209H1176" stroke="#77656b" stroke-opacity=".35"/>
+  <text x="42" y="37" fill="#bcb3b7" font-family="monospace" font-size="12" letter-spacing="2">JOHN-ROOT-OPSEC / PROFILE.README</text>
+  <text x="1158" y="37" text-anchor="end" fill="#bcb3b7" font-family="monospace" font-size="10" letter-spacing="2">SYSTEM ONLINE</text>
+  <text x="42" y="145" fill="#eee8e9" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="bold">João Batista</text>
+  <text x="47" y="178" fill="#c9bdc1" font-family="monospace" font-size="14" letter-spacing="2.5">INFRASTRUCTURE / NETWORKING / CYBERSECURITY</text>
+  <text x="48" y="198" fill="#8e8288" font-family="monospace" font-size="10" letter-spacing="2">KALI LINUX  ·  LEARN  ·  TEST  ·  DEFEND</text>
+  <circle cx="980" cy="130" r="70" fill="#030305" stroke="#d7cdd0" stroke-opacity=".8" stroke-width="2"/>
+  <circle cx="980" cy="130" r="82" fill="none" stroke="#8b1526" stroke-dasharray="2 8" stroke-width="1.5"/>
+  <path d="M910 130H1050M980 60V200" stroke="#8b1526" stroke-opacity=".45"/>
+  <circle cx="980" cy="130" r="5" fill="#c51f35"/>
+  <g fill="#4b111b" opacity=".88">
+    <path d="M0 226h22v24H0zm28-19h18v43H28zm24 12h22v31H52zm28-23h18v54H80zm24 15h25v39h-25zm31-7h18v46h-18zm25 18h22v28h-22zm31-25h17v53h-17zm26 8h24v45h-24zm32-15h20v60h-20zm29 19h18v41h-18zm27-10h26v51h-26zm35 14h20v37h-20zm28-24h18v61h-18zm27 19h26v42h-26zm35-12h18v54h-18zm27 20h24v34h-24zm32-28h20v62h-20zm30 14h22v48h-22zm31-18h19v66h-19zm28 23h23v43h-23zm34-12h19v55h-19zm31 15h24v40h-24zm33-22h20v62h-20zm31 17h20v45h-20z"/>
+  </g>
+  <path d="M24 225H1176" stroke="#9c1a2e" stroke-opacity=".7"/>
 </svg>
