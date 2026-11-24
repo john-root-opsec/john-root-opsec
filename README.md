@@ -26,6 +26,7 @@
 <a href="https://www.wireshark.org/" title="Wireshark"><img src="assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark icon" /></a>
 <a href="https://portswigger.net/burp" title="Burp Suite" ><img src="assets/icons/burpsuite.svg" width="48" height="48" alt="Burp Suite icon" /></a>
 <a href="https://sqlmap.org/" title="sqlmap"><img src="assets/icons/sqlmap.svg" width="48" height="48" alt="sqlmap icon" /></a>
+<a href="https://www.metasploit.com/" title="Metasploit Framework"><img src="assets/icons/metasploit.svg" width="48" height="48" alt="Metasploit Framework icon" /></a>
 
 <img src="assets/motion/arsenal-quote.gif" width="100%" alt="Every system leaves a signal. Learn to read it." />
 </div>
