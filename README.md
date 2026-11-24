@@ -44,11 +44,28 @@
 <img src="assets/motion/sections/03-field-reports.gif" width="100%" alt="03 — Field Reports" />
 </div>
 
-| PROJECT | OPERATION NOTES |
-| :--- | :--- |
-| **[Enterprise Network Defense](https://github.com/john-root-opsec/enterprise-network-defense-in-depth)** | Corporate network design · VLANs · routing · ACLs · DHCP · DNS |
-| **[Gmail Automation](https://github.com/john-root-opsec/gmail-auto-cleaner)** | Python · Gmail API · OAuth 2.0 · REST · pagination · batch processing |
-| **[WebSec Lab](https://github.com/john-root-opsec/websec-lab)** | Controlled web security lab · HTTP analysis · Python detection concepts · *In development* |
+<table width="100%" border="1" bordercolor="#57101B" cellpadding="13" cellspacing="0">
+  <thead>
+    <tr bgcolor="#57101B">
+      <th align="left" width="32%"><font color="#FFFFFF">PROJECT</font></th>
+      <th align="left" width="68%"><font color="#FFFFFF">OPERATION NOTES</font></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr bgcolor="#10090B">
+      <td width="32%" valign="middle"><strong><a href="https://github.com/john-root-opsec/enterprise-network-defense-in-depth">Enterprise Network Defense</a></strong></td>
+      <td width="68%" valign="middle">Corporate network design · VLANs · routing · ACLs · DHCP · DNS</td>
+    </tr>
+    <tr bgcolor="#11151B">
+      <td width="32%" valign="middle"><strong><a href="https://github.com/john-root-opsec/gmail-auto-cleaner">Gmail Automation</a></strong></td>
+      <td width="68%" valign="middle">Python · Gmail API · OAuth 2.0 · REST · pagination · batch processing</td>
+    </tr>
+    <tr bgcolor="#10090B">
+      <td width="32%" valign="middle"><strong><a href="https://github.com/john-root-opsec/websec-lab">WebSec Lab</a></strong></td>
+      <td width="68%" valign="middle">Controlled web security lab · HTTP analysis · Python detection concepts · <em>In development</em></td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 <img src="assets/motion/sections/04-active-learning.gif" width="100%" alt="04 — Active Learning" />
