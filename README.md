@@ -2,8 +2,6 @@
 
 <img src="assets/motion/header.gif" width="100%" alt="John Root — Kali Linux, infrastructure, network security and ethical hacking" />
 
-----
-
 <img src="assets/motion/intro.gif" width="100%" alt="Understand the system. Map the exposure. Secure what matters." />
 
 <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-111015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -52,13 +50,17 @@
 <img src="assets/motion/sections/03-field-reports.gif" width="100%" alt="03 — Field Reports" />
 </div>
 
-<br><br>
-
 <div align="center">
+
+<br>
+  
 <img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
 </div>
 
 <div align="center">
+
+<br>
+  
 <img src="assets/motion/sections/04-active-learning.gif" width="100%" alt="04 — Active Learning" />
 </div>
 
