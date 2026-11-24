@@ -8,7 +8,7 @@
       <stop offset="1" stop-color="#2c0c13"/>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2a0c13" stop-opacity=".55"/>
+      <stop offset="0" stop-color="#21090f" stop-opacity=".34"/>
       <stop offset="1" stop-color="#080607" stop-opacity="0"/>
     </linearGradient>
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
@@ -19,7 +19,7 @@
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="428" rx="10" fill="#080607" stroke="#742237" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="428" rx="10" fill="#050405" stroke="#742237" stroke-width="2"/>
   <rect x="8" y="8" width="1184" height="414" rx="7" fill="none" stroke="#4a1723" stroke-width="1"/>
   <rect x="10" y="10" width="1180" height="410" rx="6" fill="url(#scanlines)"/>
   <rect x="12" y="12" width="1176" height="406" rx="5" fill="url(#shine)"/>
@@ -47,7 +47,7 @@
 
   <!-- Row 01 -->
   <line x1="58" y1="126" x2="1142" y2="126" stroke="#49202a" stroke-width="1"/>
-  <rect x="58" y="127" width="1084" height="88" fill="#14090d" opacity=".52"/>
+  <rect x="58" y="127" width="1084" height="88" fill="#0a0507" opacity=".82"/>
   <rect x="58" y="127" width="3" height="88" fill="url(#edge)"/>
   <text x="78" y="157" fill="#b93450" font-family="monospace" font-size="13" letter-spacing="2">01</text>
   <a href="https://github.com/john-root-opsec/enterprise-network-defense-in-depth">
@@ -59,7 +59,7 @@
 
   <!-- Row 02 -->
   <line x1="58" y1="215" x2="1142" y2="215" stroke="#49202a" stroke-width="1"/>
-  <rect x="58" y="216" width="1084" height="88" fill="#101216" opacity=".88"/>
+  <rect x="58" y="216" width="1084" height="88" fill="#07080b" opacity=".96"/>
   <rect x="58" y="216" width="3" height="88" fill="url(#edge)"/>
   <text x="78" y="246" fill="#b93450" font-family="monospace" font-size="13" letter-spacing="2">02</text>
   <a href="https://github.com/john-root-opsec/gmail-auto-cleaner">
@@ -72,7 +72,7 @@
 
   <!-- Row 03 -->
   <line x1="58" y1="304" x2="1142" y2="304" stroke="#49202a" stroke-width="1"/>
-  <rect x="58" y="305" width="1084" height="66" fill="#14090d" opacity=".52"/>
+  <rect x="58" y="305" width="1084" height="66" fill="#0a0507" opacity=".82"/>
   <rect x="58" y="305" width="3" height="66" fill="url(#edge)"/>
   <text x="78" y="336" fill="#b93450" font-family="monospace" font-size="13" letter-spacing="2">03</text>
   <a href="https://github.com/john-root-opsec/websec-lab">
