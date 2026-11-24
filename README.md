@@ -52,12 +52,10 @@
 <img src="assets/motion/sections/03-field-reports.gif" width="100%" alt="03 — Field Reports" />
 </div>
 
+<br><br>
+
 <div align="center">
-
-----
-
 <img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
-
 </div>
 
 <div align="center">
