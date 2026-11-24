@@ -22,10 +22,10 @@
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,sqlite,c,cpp,kali,linux,windows,git,github&theme=dark&perline=14" alt="Python, JavaScript, TypeScript, React, HTML, CSS, SQLite, C, C++, Kali Linux, Linux, Windows, Git and GitHub" />
 
-<a href="https://nmap.org/" title="Nmap"><img src="https://cdn.simpleicons.org/nmap/FFFFFF" width="48" height="48" alt="Nmap" /></a>
-<a href="https://www.wireshark.org/" title="Wireshark"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" /></a>
-<a href="https://portswigger.net/burp" title="Burp Suite"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite" /></a>
-<a href="https://sqlmap.org/" title="sqlmap"><img src="https://cdn.simpleicons.org/sqlmap/F0883E" width="48" height="48" alt="sqlmap" /></a>
+<a href="https://nmap.org/" title="Nmap"><img src="assets/icons/nmap.svg" width="48" height="48" alt="Nmap icon" /></a>
+<a href="https://www.wireshark.org/" title="Wireshark"><img src="assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark icon" /></a>
+<a href="https://portswigger.net/burp" title="Burp Suite" ><img src="assets/icons/burpsuite.svg" width="48" height="48" alt="Burp Suite icon" /></a>
+<a href="https://sqlmap.org/" title="sqlmap"><img src="assets/icons/sqlmap.svg" width="48" height="48" alt="sqlmap icon" /></a>
 
 <img src="assets/motion/arsenal-quote.gif" width="100%" alt="Every system leaves a signal. Learn to read it." />
 </div>
@@ -73,6 +73,6 @@ All security testing is limited to systems and environments where I have permiss
 <details>
 <summary>Credits & implementation notes</summary>
 
-Animated panels are original looping GIF assets generated for this profile. Technology icons: [Skill Icons](https://skillicons.dev/). Badges: [Shields.io](https://shields.io/). Display typography uses a Fraktur Unicode treatment and Garamond-style editorial lettering in the raster artwork.
+Animated panels are original looping GIF assets generated for this profile. Technology icons: [Skill Icons](https://skillicons.dev/). Security application icons: [Kali Flat Icons](https://github.com/l0gicx/kali-flat-icons) (GPL-3.0; license included in `assets/icons/`). Badges: [Shields.io](https://shields.io/). Display typography uses a Fraktur Unicode treatment and Garamond-style editorial lettering in the raster artwork.
 
 </details>
