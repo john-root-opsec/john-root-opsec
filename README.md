@@ -17,7 +17,7 @@
 
 ----
 
-<img src="assets/motion/operator-card.gif" width="100%" alt="IT infrastructure professional focused on networking, Linux, security labs, automation and responsible testing" />
+<img src="assets/operator-card.svg" width="100%" alt="IT infrastructure professional focused on networking, Linux, and security" />
 
 <div align="center">
 <img src="assets/motion/sections/02-capability-map.gif" width="100%" alt="02 — Capability Map" />
