@@ -66,9 +66,9 @@
 
 ----
 
-**COMPLETED** · Systems Analysis and Development degree  
-**COMPLETED** · AI-900 — Microsoft Azure AI Fundamentals  
-**CURRENT TRACK** · Linux administration · networking · authorized ethical hacking labs · defensive security · Python automation · front-end development
+**COMPLETED** · **Systems Analysis and Development degree**  
+**COMPLETED** · **Linux Server Administrator**
+**CURRENT TRACK** · **Linux administration · networking · authorized ethical hacking labs · defensive security · Python automation · front-end development**
 
 <div align="center">
 <img src="assets/motion/sections/05-open-channel.gif" width="100%" alt="05 — Open Channel" />
@@ -80,7 +80,7 @@ Open to junior opportunities in **IT Infrastructure, Networking, IT Support and 
 <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-john--root--opsec-111015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-57101B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
-All security testing is limited to systems and environments where I have permission.
+**All security testing is limited to systems and environments where I have permission.**
 
 <img src="assets/motion/footer.gif" width="100%" alt="Observe carefully. Test ethically. Build securely." />
 </div>
