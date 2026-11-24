@@ -46,11 +46,9 @@
 
 <div align="center">
 
-<a href="https://github.com/john-root-opsec/enterprise-network-defense-in-depth"><img src="assets/projects/enterprise-network-defense.svg" width="100%" alt="Enterprise Network Defense — Corporate network design, VLANs, routing, ACLs, DHCP and DNS" /></a>
+<img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
 
-<a href="https://github.com/john-root-opsec/gmail-auto-cleaner"><img src="assets/projects/gmail-automation.svg" width="100%" alt="Gmail Automation — Python, Gmail API, OAuth 2.0, REST, pagination and batch processing" /></a>
-
-<a href="https://github.com/john-root-opsec/websec-lab"><img src="assets/projects/websec-lab.svg" width="100%" alt="WebSec Lab — Controlled web security lab, HTTP analysis, Python detection concepts, in development" /></a>
+<p><sub>OPEN REPORT: <a href="https://github.com/john-root-opsec/enterprise-network-defense-in-depth">01 ENTERPRISE NETWORK DEFENSE</a> · <a href="https://github.com/john-root-opsec/gmail-auto-cleaner">02 GMAIL AUTOMATION</a> · <a href="https://github.com/john-root-opsec/websec-lab">03 WEBSEC LAB</a></sub></p>
 
 </div>
 
