@@ -2,6 +2,8 @@
 
 <img src="assets/motion/header.gif" width="100%" alt="John Root — Kali Linux, infrastructure, network security and ethical hacking" />
 
+----
+
 <img src="assets/motion/intro.gif" width="100%" alt="Understand the system. Map the exposure. Secure what matters." />
 
 <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-111015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -15,10 +17,14 @@
 <img src="assets/motion/sections/01-operator-file.gif" width="100%" alt="01 — Operator File" />
 </div>
 
+----
+
 <img src="assets/motion/operator-card.gif" width="100%" alt="IT infrastructure professional focused on networking, Linux, security labs, automation and responsible testing" />
 
 <div align="center">
 <img src="assets/motion/sections/02-capability-map.gif" width="100%" alt="02 — Capability Map" />
+
+----
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,sqlite,c,cpp,kali,linux,windows,git,github&theme=dark&perline=14" alt="Python, JavaScript, TypeScript, React, HTML, CSS, SQLite, C, C++, Kali Linux, Linux, Windows, Git and GitHub" />
 
@@ -30,6 +36,8 @@
 
 <img src="assets/motion/arsenal-quote.gif" width="100%" alt="Every system leaves a signal. Learn to read it." />
 </div>
+
+----
 
 **OFFENSIVE SECURITY / AUTHORIZED LABS**  
 <img src="https://img.shields.io/badge/Metasploit-Framework-57101B?style=flat-square" alt="Metasploit" />
@@ -46,9 +54,9 @@
 
 <div align="center">
 
-<img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
+----
 
-<p><sub>OPEN REPORT: <a href="https://github.com/john-root-opsec/enterprise-network-defense-in-depth">01 ENTERPRISE NETWORK DEFENSE</a> · <a href="https://github.com/john-root-opsec/gmail-auto-cleaner">02 GMAIL AUTOMATION</a> · <a href="https://github.com/john-root-opsec/websec-lab">03 WEBSEC LAB</a></sub></p>
+<img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
 
 </div>
 
@@ -56,12 +64,16 @@
 <img src="assets/motion/sections/04-active-learning.gif" width="100%" alt="04 — Active Learning" />
 </div>
 
+----
+
 **COMPLETED** · Systems Analysis and Development degree  
 **COMPLETED** · AI-900 — Microsoft Azure AI Fundamentals  
 **CURRENT TRACK** · Linux administration · networking · authorized ethical hacking labs · defensive security · Python automation · front-end development
 
 <div align="center">
 <img src="assets/motion/sections/05-open-channel.gif" width="100%" alt="05 — Open Channel" />
+
+----
 
 Open to junior opportunities in **IT Infrastructure, Networking, IT Support and Cybersecurity**.
 
