@@ -22,14 +22,19 @@
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,sqlite,c,cpp,kali,linux,windows,git,github&theme=dark&perline=14" alt="Python, JavaScript, TypeScript, React, HTML, CSS, SQLite, C, C++, Kali Linux, Linux, Windows, Git and GitHub" />
 
+<a href="https://nmap.org/" title="Nmap"><img src="https://cdn.simpleicons.org/nmap/FFFFFF" width="48" height="48" alt="Nmap" /></a>
+<a href="https://www.wireshark.org/" title="Wireshark"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" /></a>
+<a href="https://portswigger.net/burp" title="Burp Suite"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite" /></a>
+<a href="https://sqlmap.org/" title="sqlmap"><img src="https://cdn.simpleicons.org/sqlmap/F0883E" width="48" height="48" alt="sqlmap" /></a>
+
 <img src="assets/motion/arsenal-quote.gif" width="100%" alt="Every system leaves a signal. Learn to read it." />
 </div>
 
 **OFFENSIVE SECURITY / AUTHORIZED LABS**  
-<img src="https://img.shields.io/badge/Burp_Suite-Web_Testing-57101B?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/sqlmap-SQL_Injection_Testing-242127?style=flat-square" alt="sqlmap" /> <img src="https://img.shields.io/badge/Metasploit-Framework-57101B?style=flat-square" alt="Metasploit" /> <img src="https://img.shields.io/badge/Nmap-Network_Discovery-242127?style=flat-square" alt="Nmap" />
+<img src="https://img.shields.io/badge/Metasploit-Framework-57101B?style=flat-square" alt="Metasploit" />
 
 **NETWORK ANALYSIS & DEFENSE**  
-<img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-57101B?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /> <kbd>TCP/IP</kbd> <kbd>VLANs</kbd> <kbd>ACLs</kbd> <kbd>DHCP</kbd> <kbd>DNS</kbd> <kbd>GLPI</kbd> <kbd>Active Directory</kbd>
+<kbd>TCP/IP</kbd> <kbd>VLANs</kbd> <kbd>ACLs</kbd> <kbd>DHCP</kbd> <kbd>DNS</kbd> <kbd>GLPI</kbd> <kbd>Active Directory</kbd>
 
 **SYSTEMS, VIRTUALIZATION & DEVELOPMENT**  
 <kbd>Kali Linux</kbd> <kbd>Linux</kbd> <kbd>Windows</kbd> <kbd>VirtualBox</kbd> <kbd>Cisco Packet Tracer</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>SQLite</kbd> <kbd>REST APIs</kbd> <kbd>OAuth 2.0</kbd>
