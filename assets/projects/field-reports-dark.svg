@@ -108,9 +108,9 @@
   <line x1="58" y1="304" x2="1142" y2="304" stroke="#3e1a23" stroke-width="1"/>
   <rect x="58" y="305" width="1084" height="66" fill="#0a0507" opacity=".82"/>
   <rect x="58" y="305" width="3" height="66" fill="url(#edge)"/>
-  <text x="78" y="336" fill="#9f2d43" font-family="monospace" font-size="13" letter-spacing="2">03</text>
+  <text x="78" y="330" fill="#9f2d43" font-family="monospace" font-size="13" letter-spacing="2">03</text>
   <a href="https://github.com/john-root-opsec/websec-lab">
-    <text x="78" y="355" fill="#eee4e7" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">WebSec Lab</text>
+    <text x="78" y="362" fill="#eee4e7" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">WebSec Lab</text>
   </a>
   <circle cx="468" cy="338" r="4" fill="#91253d"/>
   <text x="490" y="332" fill="#d2c7cb" font-family="Arial, sans-serif" font-size="18">Controlled web security lab · HTTP analysis · Python detection concepts</text>
