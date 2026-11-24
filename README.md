@@ -54,7 +54,7 @@
 
 <br>
   
-<img src="assets/projects/field-reports.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
+<img src="assets/projects/field-reports-dark.svg" width="100%" alt="Field Reports — one unified panel containing Enterprise Network Defense, Gmail Automation and WebSec Lab with operation notes" />
 </div>
 
 <div align="center">
