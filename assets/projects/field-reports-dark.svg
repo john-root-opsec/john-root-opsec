@@ -100,9 +100,9 @@
     <text x="78" y="277" fill="#eee4e7" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">Gmail Automation</text>
   </a>
   <circle cx="468" cy="258" r="4" fill="#91253d"/>
-  <text x="490" y="263" fill="#d2c7cb" font-family="Arial, sans-serif" font-size="17">Python · Gmail API · OAuth 2.0 · REST · pagination · batch processing</text>
+  <text x="490" y="250" fill="#d2c7cb" font-family="Arial, sans-serif" font-size="18">Python · Gmail API · OAuth 2.0 · REST · pagination · batch processing</text>
   
-  <text x="490" y="286" fill="#826b73" font-family="monospace" font-size="11" letter-spacing="2">PYTHON AUTOMATION / DOCUMENTED</text>
+  <text x="490" y="277" fill="#826b73" font-family="monospace" font-size="11" letter-spacing="2">PYTHON AUTOMATION / DOCUMENTED</text>
 
   <!-- Row 03 -->
   <line x1="58" y1="304" x2="1142" y2="304" stroke="#3e1a23" stroke-width="1"/>
@@ -113,8 +113,8 @@
     <text x="78" y="362" fill="#eee4e7" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">WebSec Lab</text>
   </a>
   <circle cx="468" cy="338" r="4" fill="#91253d"/>
-  <text x="490" y="332" fill="#d2c7cb" font-family="Arial, sans-serif" font-size="18">Controlled web security lab · HTTP analysis · Python detection concepts</text>
-  <text x="490" y="355" fill="#c18a55" font-family="monospace" font-size="11" letter-spacing="2">WEB SECURITY / IN DEVELOPMENT</text>
+  <text x="490" y="337" fill="#d2c7cb" font-family="Arial, sans-serif" font-size="18">Controlled web security lab · HTTP analysis · Python detection concepts</text>
+  <text x="490" y="364" fill="#c18a55" font-family="monospace" font-size="11" letter-spacing="2">WEB SECURITY / IN DEVELOPMENT</text>
 
   <!-- Footer rule -->
   <line x1="58" y1="386" x2="1142" y2="386" stroke="#571625" stroke-width="1"/>
