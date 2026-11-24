@@ -67,7 +67,7 @@
 ----
 
 **COMPLETED** · **Systems Analysis and Development degree**  
-**COMPLETED** · **Linux Server Administrator**
+**COMPLETED** · **Linux Server Administrator**  
 **CURRENT TRACK** · **Linux administration · networking · authorized ethical hacking labs · defensive security · Python automation · front-end development**
 
 <div align="center">
