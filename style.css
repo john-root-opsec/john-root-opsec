@@ -1,0 +1,127 @@
+/* John Root — GitHub Pages profile
+   Public-facing page styles. Original README.md is not modified. */
+
+:root {
+  color-scheme: dark;
+  --outer: #0d1117;
+  --panel: #080607;
+  --panel-soft: #10090b;
+  --border: #57101b;
+  --text: #f2eeee;
+  --muted: #c5bfc1;
+}
+
+* { box-sizing: border-box; }
+
+html { background: var(--outer); }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(87, 16, 27, .16), transparent 48%),
+    var(--outer);
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.65;
+}
+
+.page-shell {
+  width: min(1120px, calc(100% - 32px));
+  margin: 36px auto;
+}
+
+.panel {
+  width: 100%;
+  padding: clamp(16px, 3vw, 34px);
+  overflow: hidden;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: 0 18px 70px rgba(0, 0, 0, .42), 0 0 0 1px rgba(87, 16, 27, .12);
+}
+
+.centered { text-align: center; }
+.wide { display: block; width: 100%; height: auto; }
+.hero, .operator, .capabilities { margin-bottom: 24px; }
+.hero > * + *, .capabilities > * + * { margin-top: 18px; }
+.section-banner { margin: 28px 0 18px; }
+.section-banner img { border-radius: 3px; }
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.buttons a { display: inline-flex; }
+.buttons img, .badges img { vertical-align: middle; }
+
+.skill-icons img { max-width: 100%; height: auto; }
+
+.details-content {
+  padding: clamp(14px, 2.5vw, 26px);
+  background: var(--panel-soft);
+  border: 1px solid rgba(87, 16, 27, .65);
+  border-radius: 9px;
+}
+
+h2 {
+  margin: 24px 0 10px;
+  color: #eadde0;
+  font-size: .98rem;
+  font-weight: 750;
+  letter-spacing: .055em;
+  line-height: 1.4;
+}
+h2:first-child { margin-top: 0; }
+
+p { margin: 10px 0 18px; color: var(--muted); }
+strong { color: var(--text); }
+a { color: #e6b8c1; text-decoration-color: rgba(230, 184, 193, .5); text-underline-offset: 3px; }
+a:hover { color: #fff; text-decoration-color: var(--border); }
+
+kbd {
+  display: inline-block;
+  margin: 3px 2px;
+  padding: 2px 7px;
+  color: #eee7e9;
+  background: #191316;
+  border: 1px solid #493039;
+  border-radius: 5px;
+  font: inherit;
+  font-size: .88em;
+}
+
+.table-wrap { width: 100%; overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; margin: 12px 0 24px; }
+th, td { padding: 12px 14px; text-align: left; border-bottom: 1px solid #38232a; }
+th { color: #eadde0; background: #160d10; font-size: .82rem; letter-spacing: .06em; }
+td { color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+details {
+  margin-top: 26px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(87, 16, 27, .7);
+  color: var(--muted);
+}
+summary { color: #eadde0; cursor: pointer; font-weight: 650; }
+details p { margin-bottom: 0; }
+
+.site-footer {
+  padding: 18px 8px 0;
+  color: #82777b;
+  text-align: center;
+  font-size: .72rem;
+  letter-spacing: .16em;
+}
+.site-footer span { color: #8e2639; }
+
+@media (max-width: 640px) {
+  .page-shell { width: min(100% - 18px, 1120px); margin: 10px auto; }
+  .panel { padding: 12px; border-radius: 9px; }
+  .details-content { padding: 13px; }
+  th, td { padding: 9px 10px; font-size: .88rem; }
+}
