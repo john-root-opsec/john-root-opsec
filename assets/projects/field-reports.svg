@@ -19,14 +19,14 @@
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="428" rx="9" fill="#09080b" stroke="#403039" stroke-width="1"/>
-  <rect x="8" y="8" width="1184" height="414" rx="7" fill="none" stroke="#48101a" stroke-width="1.2"/>
+  <rect x="1" y="1" width="1198" height="428" rx="9" fill="#09080b" stroke="#241a20" stroke-width="1"/>
+  <rect x="8" y="8" width="1184" height="414" rx="7" fill="none" stroke="#2d0b13" stroke-width="1.2"/>
   <rect x="10" y="10" width="1180" height="410" rx="6" fill="url(#scanlines)"/>
   <rect x="12" y="12" width="1176" height="406" rx="5" fill="url(#shine)"/>
 
   <!-- Technical corner brackets -->
   <path d="M24 48V24H58 M1142 24H1176V58 M24 372V406H58 M1142 406H1176V372" fill="none" stroke="#8b7a83" stroke-width="1.5"/>
-  <path d="M28 52V28H62 M1138 28H1172V62 M28 368V402H62 M1138 402H1172V368" fill="none" stroke="#48101a" stroke-width="1"/>
+  <path d="M28 52V28H62 M1138 28H1172V62 M28 368V402H62 M1138 402V368" fill="none" stroke="#2d0b13" stroke-width="1"/>
 
   <!-- Panel heading -->
   <text x="76" y="51" fill="#9e858b" font-family="monospace" font-size="13" letter-spacing="3.2">JOHN-ROOT-OPSEC / FIELD REPORTS</text>
