@@ -1,1 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300"><defs><pattern id="s" width="3" height="4" patternUnits="userSpaceOnUse"><path d="M0 3H3" stroke="#fff" stroke-opacity=".035"/></pattern></defs><rect x="1" y="1" width="898" height="298" rx="7" fill="#09080b" stroke="#403039"/><rect x="2" y="2" width="896" height="296" rx="6" fill="url(#s)"/><path d="M18 30V17H34M866 17h16v13M18 270v13h16M866 283h16v-13" fill="none" stroke="#8b7a83"/><text x="35" y="92" fill="#c51f35" font-family="Georgia,serif" font-size="88" font-weight="bold">J</text><text x="100" y="48" fill="#eee5ea" font-family="Georgia,serif" font-size="18">IT infrastructure professional focused on networks, Linux and security.</text><text x="100" y="76" fill="#eee5ea" font-family="Georgia,serif" font-size="18">I learn by building labs, investigating how systems behave and</text><text x="100" y="104" fill="#eee5ea" font-family="Georgia,serif" font-size="18">turning technical curiosity into practical, documented work.</text><circle cx="817" cy="76" r="34" fill="#050407" stroke="#b8aab1"/><circle cx="817" cy="76" r="27" fill="none" stroke="#c51f35"/><path d="M817 48L845 76L817 104L789 76Z" fill="none" stroke="#c51f35"/><circle cx="817" cy="76" r="3" fill="#e31d3c"/><path d="M35 129H865" stroke="#46333c"/><g font-family="monospace" font-size="10" letter-spacing="1.5" fill="#b8aab2"><text x="42" y="163">DOMAIN</text><text x="42" y="202">PRACTICE</text><text x="42" y="241">STACK</text><text x="42" y="280">PRINCIPLE</text></g><g font-family="Georgia,serif" font-size="16" fill="#e4dce0"><text x="220" y="163">Infrastructure, networking &amp; cybersecurity</text><text x="220" y="202">Kali Linux, virtual labs &amp; network troubleshooting</text><text x="220" y="241">Python, security tools, web fundamentals &amp; SQL</text><text x="220" y="280">Authorized testing, clear evidence and responsible practice</text></g><g fill="#c51f35"><circle cx="184" cy="158" r="2.5"/><circle cx="184" cy="197" r="2.5"/><circle cx="184" cy="236" r="2.5"/><circle cx="184" cy="275" r="2.5"/></g><path d="M35 145H865M35 184H865M35 223H865M35 262H865" stroke="#2d242b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">John Root — Operator Profile</title>
+  <desc id="desc">IT infrastructure professional focused on networks, Linux and security, presented in a dark burgundy operator card.</desc>
+  <defs>
+    <pattern id="scanlines" width="3" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3H3" stroke="#fff" stroke-opacity=".016"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b090c"/>
+      <stop offset=".55" stop-color="#08070a"/>
+      <stop offset="1" stop-color="#0b080b"/>
+    </linearGradient>
+    <filter id="subtleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="298" rx="7" fill="url(#panel)" stroke="#261b21" stroke-width="1.4"/>
+  <rect x="7" y="7" width="886" height="286" rx="5" fill="none" stroke="#33232b" stroke-width="1"/>
+  <rect x="2" y="2" width="896" height="296" rx="6" fill="url(#scanlines)"/>
+
+  <!-- Restrained corner markers -->
+  <path d="M18 30V17H34M866 17h16v13M18 270v13h16M866 283h16v-13"
+        fill="none" stroke="#59434c" stroke-width="1.15"/>
+  <path d="M24 24H48M852 24h24M24 276h24M852 276h24"
+        fill="none" stroke="#392931" stroke-width=".8"/>
+
+  <!-- Initial -->
+  <text x="35" y="92" fill="#b51f36" font-family="Georgia,serif" font-size="88" font-weight="bold">J</text>
+
+  <!-- Profile statement -->
+  <g fill="#e8dfe4" font-family="Georgia,serif" font-size="18">
+    <text x="100" y="48">IT infrastructure professional focused on networks, Linux and security.</text>
+    <text x="100" y="76">I build practical labs, investigate system behavior and turn technical</text>
+    <text x="100" y="104">curiosity into documented work through automation and security studies.</text>
+  </g>
+
+  <!-- Moved, slightly tighter animated target: more clearance from the final word -->
+  <g transform="translate(855 76)" fill="none" stroke="#a51e34">
+    <circle r="31" stroke-width="1.05" opacity=".75">
+      <animate attributeName="r" values="30;32;30" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".52;.82;.52" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="24" stroke="#8e1b30" stroke-width=".95" opacity=".7"/>
+    <g>
+      <path d="M0-20L20 0L0 20L-20 0Z" stroke-width="1"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+    </g>
+    <rect x="-14" y="-14" width="28" height="28" stroke="#8f1b30" stroke-width=".9"/>
+    <circle r="2.8" fill="#c51f35" stroke="none" filter="url(#subtleGlow)">
+      <animate attributeName="r" values="2.4;3.4;2.4" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M0-43V-36M0 36V43M-43 0H-36M36 0H43M-30-30L-25-25M30 30L25 25M30-30L25-25M-30 30L-25 25"
+          stroke="#59303b" stroke-width=".8" opacity=".72"/>
+    <circle r="39" stroke="#5e2634" stroke-width=".75" stroke-dasharray="1.5 5" opacity=".5"/>
+  </g>
+
+  <!-- Divider and field rows -->
+  <path d="M35 129H865" stroke="#35242b" stroke-width="1"/>
+  <g font-family="monospace" font-size="10" letter-spacing="1.5" fill="#9f8e97">
+    <text x="42" y="163">DOMAIN</text>
+    <text x="42" y="202">PRACTICE</text>
+    <text x="42" y="241">STACK</text>
+    <text x="42" y="280">PRINCIPLE</text>
+  </g>
+  <g font-family="Georgia,serif" font-size="16" fill="#ddd4d9">
+    <text x="220" y="163">Infrastructure, networking &amp; cybersecurity</text>
+    <text x="220" y="202">Kali Linux, virtual labs &amp; network troubleshooting</text>
+    <text x="220" y="241">Python, security tools, web fundamentals &amp; SQL</text>
+    <text x="220" y="280">Authorized testing, clear evidence and responsible practice</text>
+  </g>
+  <g fill="#a51e34">
+    <circle cx="184" cy="158" r="2.5"/>
+    <circle cx="184" cy="197" r="2.5"/>
+    <circle cx="184" cy="236" r="2.5"/>
+    <circle cx="184" cy="275" r="2.5"/>
+  </g>
+  <path d="M35 145H865M35 184H865M35 223H865M35 262H865"
+        stroke="#21181e" stroke-width=".8"/>
+</svg>
