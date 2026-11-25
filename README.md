@@ -15,8 +15,6 @@
 <img src="assets/motion/sections/01-operator-file.gif" width="100%" alt="01 — Operator File" />
 </div>
 
-----
-
 <img src="assets/operator-card.svg" width="100%" alt="IT infrastructure professional focused on networking, Linux, and security" />
 
 <div align="center">
@@ -35,7 +33,7 @@
 <img src="assets/motion/arsenal-quote.gif" width="100%" alt="Every system leaves a signal. Learn to read it." />
 </div>
 
-----
+<br>
 
 **OFFENSIVE SECURITY / AUTHORIZED LABS**  
 <img src="https://img.shields.io/badge/Metasploit-Framework-57101B?style=flat-square" alt="Metasploit" />
@@ -45,6 +43,8 @@
 
 **SYSTEMS, VIRTUALIZATION & DEVELOPMENT**  
 <kbd>Kali Linux</kbd> <kbd>Linux</kbd> <kbd>Windows</kbd> <kbd>VirtualBox</kbd> <kbd>Cisco Packet Tracer</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>SQLite</kbd> <kbd>REST APIs</kbd> <kbd>OAuth 2.0</kbd>
+
+----
 
 <div align="center">
 <img src="assets/motion/sections/03-field-reports.gif" width="100%" alt="03 — Field Reports" />
@@ -64,18 +64,25 @@
 <img src="assets/motion/sections/04-active-learning.gif" width="100%" alt="04 — Active Learning" />
 </div>
 
-----
+<br>
 
 **COMPLETED** · **Systems Analysis and Development degree**  
 **COMPLETED** · **Linux Server Administrator**  
 **CURRENT TRACK** · **Linux administration · networking · authorized ethical hacking labs · defensive security · Python automation · front-end development**
 
+----
+
 <div align="center">
 <img src="assets/motion/sections/05-open-channel.gif" width="100%" alt="05 — Open Channel" />
 
-----
 
-Open to junior opportunities in **IT Infrastructure, Networking, IT Support and Cybersecurity**.
+<p style="margin-top: 14px;">
+  
+  **Open to junior opportunities in IT Infrastructure, Networking, IT Support and Cybersecurity.**
+  
+</p>
+
+----
 
 <a href="https://github.com/john-root-opsec"><img src="https://img.shields.io/badge/GITHUB-john--root--opsec-111015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://github.com/john-root-opsec?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-57101B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
